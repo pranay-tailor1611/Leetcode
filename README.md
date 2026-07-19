@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pranay-tailor1611/Leetcode/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pranay-tailor1611/Leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pranay-tailor1611/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
