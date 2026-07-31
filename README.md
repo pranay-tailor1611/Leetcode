@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pranay-tailor1611/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pranay-tailor1611/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pranay-tailor1611/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pranay-tailor1611/Leetcode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranay-tailor1611/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranay-tailor1611/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -17,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/pranay-tailor1611/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/pranay-tailor1611/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/pranay-tailor1611/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/pranay-tailor1611/Leetcode/tree/master/0058-length-of-last-word) |
 ## Number Theory
