@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/pranay-tailor1611/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pranay-tailor1611/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pranay-tailor1611/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/pranay-tailor1611/Leetcode/tree/master/0392-is-subsequence) |
 ## Number Theory
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pranay-tailor1611/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranay-tailor1611/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/pranay-tailor1611/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranay-tailor1611/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/pranay-tailor1611/Leetcode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
