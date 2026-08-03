@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pranay-tailor1611/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/pranay-tailor1611/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranay-tailor1611/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranay-tailor1611/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/pranay-tailor1611/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranay-tailor1611/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pranay-tailor1611/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/pranay-tailor1611/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/pranay-tailor1611/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranay-tailor1611/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pranay-tailor1611/Leetcode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranay-tailor1611/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
