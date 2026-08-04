@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pranay-tailor1611/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pranay-tailor1611/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/pranay-tailor1611/Leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/pranay-tailor1611/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/pranay-tailor1611/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/pranay-tailor1611/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/pranay-tailor1611/Leetcode/tree/master/0075-sort-colors) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pranay-tailor1611/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pranay-tailor1611/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranay-tailor1611/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pranay-tailor1611/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pranay-tailor1611/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pranay-tailor1611/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pranay-tailor1611/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
