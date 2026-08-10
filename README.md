@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranay-tailor1611/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/pranay-tailor1611/Leetcode/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranay-tailor1611/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/pranay-tailor1611/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pranay-tailor1611/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranay-tailor1611/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/pranay-tailor1611/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranay-tailor1611/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3838-weighted-word-mapping](https://github.com/pranay-tailor1611/Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
