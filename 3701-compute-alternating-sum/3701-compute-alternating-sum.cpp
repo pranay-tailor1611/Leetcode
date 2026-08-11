@@ -1,16 +1,17 @@
 class Solution {
 public:
     int alternatingSum(vector<int>& nums) {
-        int evenSum = 0;
-        int oddSum = 0;
+       
+       int sum = 0;
         
-        for(int i = 0; i < nums.size();i += 2){
-            evenSum += nums[i];
+        for(int i = 0; i < nums.size();i++){
+           if(i % 2 == 0){
+                sum += nums[i];
+           }
+           else {
+            sum -= nums[i];
+           }
         }
-
-        for(int i = 1; i < nums.size();i += 2){
-            oddSum += nums[i];
-        }
-        return evenSum - oddSum;
+        return sum;
     }
 };
