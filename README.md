@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/pranay-tailor1611/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pranay-tailor1611/Leetcode/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/pranay-tailor1611/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pranay-tailor1611/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/pranay-tailor1611/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/pranay-tailor1611/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/pranay-tailor1611/Leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/pranay-tailor1611/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pranay-tailor1611/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/pranay-tailor1611/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/pranay-tailor1611/Leetcode/tree/master/3731-find-missing-elements) |
 ## Database
 |  |
 | ------- |
