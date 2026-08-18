@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pranay-tailor1611/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/pranay-tailor1611/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pranay-tailor1611/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1732-find-the-highest-altitude](https://github.com/pranay-tailor1611/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/pranay-tailor1611/Leetcode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranay-tailor1611/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pranay-tailor1611/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pranay-tailor1611/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/pranay-tailor1611/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Trie
 |  |
