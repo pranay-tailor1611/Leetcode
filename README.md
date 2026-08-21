@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranay-tailor1611/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pranay-tailor1611/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pranay-tailor1611/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranay-tailor1611/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranay-tailor1611/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/pranay-tailor1611/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/pranay-tailor1611/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/pranay-tailor1611/Leetcode/tree/master/1816-truncate-sentence) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranay-tailor1611/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranay-tailor1611/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pranay-tailor1611/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Stack
 |  |
 | ------- |
@@ -205,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranay-tailor1611/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
