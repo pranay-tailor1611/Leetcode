@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranay-tailor1611/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/pranay-tailor1611/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/pranay-tailor1611/Leetcode/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pranay-tailor1611/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/pranay-tailor1611/Leetcode/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/pranay-tailor1611/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/pranay-tailor1611/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/pranay-tailor1611/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
