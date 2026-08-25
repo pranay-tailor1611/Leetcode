@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranay-tailor1611/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pranay-tailor1611/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pranay-tailor1611/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/pranay-tailor1611/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pranay-tailor1611/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/1720-decode-xored-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pranay-tailor1611/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pranay-tailor1611/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2418-sort-the-people](https://github.com/pranay-tailor1611/Leetcode/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/pranay-tailor1611/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/pranay-tailor1611/Leetcode/tree/master/3731-find-missing-elements) |
