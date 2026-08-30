@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pranay-tailor1611/Leetcode/tree/master/0392-is-subsequence) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pranay-tailor1611/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/pranay-tailor1611/Leetcode/tree/master/1816-truncate-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranay-tailor1611/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranay-tailor1611/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/pranay-tailor1611/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/pranay-tailor1611/Leetcode/tree/master/1816-truncate-sentence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranay-tailor1611/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranay-tailor1611/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pranay-tailor1611/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
