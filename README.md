@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pranay-tailor1611/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/pranay-tailor1611/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/pranay-tailor1611/Leetcode/tree/master/0392-is-subsequence) |
+| [1528-shuffle-string](https://github.com/pranay-tailor1611/Leetcode/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pranay-tailor1611/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/pranay-tailor1611/Leetcode/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranay-tailor1611/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/pranay-tailor1611/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranay-tailor1611/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1528-shuffle-string](https://github.com/pranay-tailor1611/Leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/pranay-tailor1611/Leetcode/tree/master/1534-count-good-triplets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pranay-tailor1611/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pranay-tailor1611/Leetcode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
