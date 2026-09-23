@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pranay-tailor1611/Leetcode/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pranay-tailor1611/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2367-number-of-arithmetic-triplets](https://github.com/pranay-tailor1611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/pranay-tailor1611/Leetcode/tree/master/2418-sort-the-people) |
 | [3731-find-missing-elements](https://github.com/pranay-tailor1611/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pranay-tailor1611/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2367-number-of-arithmetic-triplets](https://github.com/pranay-tailor1611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/pranay-tailor1611/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/pranay-tailor1611/Leetcode/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/pranay-tailor1611/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/pranay-tailor1611/Leetcode/tree/master/0392-is-subsequence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/pranay-tailor1611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/pranay-tailor1611/Leetcode/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2367-number-of-arithmetic-triplets](https://github.com/pranay-tailor1611/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranay-tailor1611/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
