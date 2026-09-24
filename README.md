@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/pranay-tailor1611/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/pranay-tailor1611/Leetcode/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/pranay-tailor1611/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pranay-tailor1611/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pranay-tailor1611/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/pranay-tailor1611/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/pranay-tailor1611/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/pranay-tailor1611/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/pranay-tailor1611/Leetcode/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pranay-tailor1611/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/pranay-tailor1611/Leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Stack
 |  |
 | ------- |
